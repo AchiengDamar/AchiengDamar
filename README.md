@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋,I am Ishmaelda Damar Achieng
+I am a computer science student at Moi University,currently focused on Data Analysis and Python development.I am passionate about turning raw data into actionable insights and am eager to apply my skills during my upcoming industrial attachment.
 
-<!--
-**AchiengDamar/AchiengDamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Tech Stack:
+languages:Python(Pandas,NumPy,Seaborn),SQL
+Tools:VS Code,Jupyter Notebooks,Git
+Currently Learning:MAchine Learning basics and Power BI
 
-Here are some ideas to get you started:
+##Featured Project
+Student_Performance_Analysis:An end-to -end analysis of student success factors using python and seaborn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+email:osooishmaelda@gmail.
